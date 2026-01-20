@@ -1,4 +1,4 @@
-## Hi there 👋
+ ## Hi I'm Nikhil Kumar 👋
 
 <!--
 **nikhill-27/nikhill-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

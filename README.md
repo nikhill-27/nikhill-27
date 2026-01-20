@@ -12,3 +12,6 @@
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I train like an athlete, think like an engineer, and aim to serve like a soldier.**
 
+connect with me:
+www.linkedin.com/in/nikhilkumar1947
+

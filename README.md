@@ -1,6 +1,7 @@
  ## Hi I'm Nikhil Kumar 👋
 
-
+ 
+                             PASSIONATE FULL STACK DEVELOPER FROM INDIA
 
 - 🔭 Currently building **Grameen Udaan AI** — focused on practical, impact-driven solutions.
 - 🌱 Learning **Generative AI, Agentic AI, and Java** to strengthen both system design and problem-solving skills.

@@ -1,9 +1,6 @@
  ## Hi I'm Nikhil Kumar 👋
 
-<!--
-**nikhill-27/nikhill-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 Currently building **Grameen Udaan AI** — focused on practical, impact-driven solutions.
 - 🌱 Learning **Generative AI, Agentic AI, and Java** to strengthen both system design and problem-solving skills.

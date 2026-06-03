@@ -1,7 +1,7 @@
  ## Hi I'm Nikhil Kumar 👋
 
  
-                             PASSIONATE FULL STACK DEVELOPER FROM INDIA
+                             PASSIONATE AI & ML practitioner FROM INDIA
 
 - 🔭 Currently building **NIRVAAAN** — focused on practical, impact-driven healthcare solutions.
 - 🌱 Learning **AI & ML, Agentic AI, and Java** to strengthen both system design and problem-solving skills.
